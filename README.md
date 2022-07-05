@@ -33,7 +33,7 @@
 [Link to repository](https://github.com/FranciscoMansilla/franWeatherApp.git)
 
 
-## Because I? 🤷‍♂️
+## Why me? 🤷‍♂️
 All the members of this community have excellent technical skills however with me you will get a curious developer with great problem solving skills and above all a developer always willing to teach and learn from others.
 
 
