@@ -5,19 +5,22 @@
  - Scrum methodology
  ### Front
  - ReactJs
- - Typescript
+ - Vue
  - Tailwind
- - HTML
- - CSS
- - Javascript
- - Boostrap
- - Redux
+ - MUI
+ - SASS
+ - Chakra Ui
+ - React Native
  
  ### Back
  - NodeJs
+ - Flask
  - Express
  - PostgreSQL
  - Sequelize
+ - MongoDb
+ - Mongoose
+ - mysql
  
  ## My Projects
  ### [FrontEnd] SoundWave - Streaming Music
